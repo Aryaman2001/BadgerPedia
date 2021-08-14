@@ -12,4 +12,4 @@ I worked on the backend of the application and learned to implement a hashtable 
 
 Users interact with the application from console.
 
-![App demo](image.jpg?raw=true)
+![App demo](image2.png?raw=true)
